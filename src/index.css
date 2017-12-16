@@ -1,0 +1,30 @@
+.quoteCard
+{
+    width:100vw;
+    background-color:blueviolet ;
+    padding: 10vh 15px;
+    color: azure;
+    border-radius: 10px;
+
+}
+@media screen and (max-width:460px)
+{
+    body{
+        font-size:50px!important;
+    }
+    #root
+    {
+        font-size:34px!important;
+    }
+}
+body{
+    font-family: 'Tangerine', serif;
+    font-size:100px;
+}
+#root
+{
+    text-align: center;
+    font-family: 'Tangerine', serif;
+    font-size: 48px;
+    padding:0px;
+}
